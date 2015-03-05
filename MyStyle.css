@@ -1,0 +1,66 @@
+body {
+  margin: 80px;
+  font-family: "Corbel";
+  background-color: #212121;
+  color: white;
+  padding: 20px;
+}
+
+h1 {
+  font-family: "Corbel";
+  color: #716A6A;
+  padding: 10px;
+  margin: 30px;
+  background-color: #4E3B3B;
+  font-size: 40px;
+  line-height: 100%;
+  text-align: center;
+}
+
+.riga2
+{
+  font-size: 25px;
+}
+
+.riga3
+{
+  color: #4E3B3B
+}
+
+h2 {
+  color: #8A7979;
+  font-size: 30px;
+  line-height: 100%;
+  text-align: center;
+  margin: 30px
+  padding: 10px
+}
+
+p {
+  font-family: "Corbel";
+  color: white;
+  padding-left: 30px;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+img {
+  margin-top: 30px;
+  margin-left: 30px;
+  padding: 10px 15px 10px 15px;
+  background-color: #4E3B3B;
+}
+
+.caffe
+{
+  width: 500px
+}
+.persone
+{
+  width: 500px
+}
+
+img {
+  display: inline-block
+}
